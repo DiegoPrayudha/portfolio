@@ -1,20 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.797ab27a.css",
-    "main.js": "/portfolio/static/js/main.b9192842.js",
+    "main.css": "/portfolio/static/css/main.5a861e7c.css",
+    "main.js": "/portfolio/static/js/main.ab2f9c25.js",
     "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
     "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/object.png": "/portfolio/static/media/object.f09ac5f82d25602fa2a9.png",
+    "static/media/resnet50.png": "/portfolio/static/media/resnet50.850dbb9d2b6c1d0a8fca.png",
+    "static/media/graphRAG.png": "/portfolio/static/media/graphRAG.c1937c14d96e3fb14b7d.png",
+    "static/media/finetuning.png": "/portfolio/static/media/finetuning.33a05bb3e42f4be56ae2.png",
     "static/media/profile.jpg": "/portfolio/static/media/profile.06a5a74dac6f3b3eb983.jpg",
+    "static/media/hybridRAG.png": "/portfolio/static/media/hybridRAG.32d80f6cf6caf7f4c203.png",
     "static/media/article.png": "/portfolio/static/media/article.d57468b316133024fe66.png",
+    "static/media/calculator.png": "/portfolio/static/media/calculator.2992d24feb466e289ef3.png",
+    "static/media/rag.png": "/portfolio/static/media/rag.8f7d04c86375a9dbbb60.png",
     "static/media/hf-logo-pirate.png": "/portfolio/static/media/hf-logo-pirate.7868d49adce90e74aa6a.png",
     "index.html": "/portfolio/index.html",
-    "main.797ab27a.css.map": "/portfolio/static/css/main.797ab27a.css.map",
-    "main.b9192842.js.map": "/portfolio/static/js/main.b9192842.js.map",
+    "main.5a861e7c.css.map": "/portfolio/static/css/main.5a861e7c.css.map",
+    "main.ab2f9c25.js.map": "/portfolio/static/js/main.ab2f9c25.js.map",
     "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.797ab27a.css",
-    "static/js/main.b9192842.js"
+    "static/css/main.5a861e7c.css",
+    "static/js/main.ab2f9c25.js"
   ]
 }
